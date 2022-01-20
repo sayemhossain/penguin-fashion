@@ -44,3 +44,16 @@ span {
   line-height: 42px;
   color: #fabe4c;
 }
+.card {
+  box-shadow: 10px 10px 30px rgb(223, 221, 221);
+}
+.box {
+  box-shadow: 5px 5px 40px rgb(223, 221, 221);
+}
+.box img {
+  width: 78px;
+  height: 82px;
+}
+.box-heading {
+  font-size: 24px;
+}
