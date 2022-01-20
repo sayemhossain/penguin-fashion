@@ -16,8 +16,12 @@ header {
   line-height: 24px;
 }
 .btn-custom {
-  background-image: linear-gradient(#a4bc46 #85a019);
+  background-color: #85a019;
   font-weight: 700;
+  color: white;
+}
+header {
+  height: 100vh;
 }
 .header-text h1 {
   font-size: 80px;
@@ -31,12 +35,12 @@ span {
 }
 
 .card-img-top {
-  background-color: #3c3c3c;
+  background-color: #a39e9e;
   border-radius: 10px;
 }
 .card-price {
   font-weight: 900;
-  font-size: 36px;
+  font-size: 30px;
   line-height: 42px;
   color: #fabe4c;
 }
