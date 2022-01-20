@@ -29,3 +29,14 @@ header {
 span {
   color: #fabe4c;
 }
+
+.card-img-top {
+  background-color: #3c3c3c;
+  border-radius: 10px;
+}
+.card-price {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 42px;
+  color: #fabe4c;
+}
